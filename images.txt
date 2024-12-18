@@ -8,3 +8,4 @@
 # alpine/dfimage:latest
 # kartoza/postgis:15-3.4
 kartoza/postgis:12.4
+kartoza/postgis:13-3.1
