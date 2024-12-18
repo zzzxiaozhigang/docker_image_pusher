@@ -6,4 +6,5 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # kartoza/geoserver:2.26.1
 # alpine/dfimage:latest
-kartoza/postgis:15-3.4
+# kartoza/postgis:15-3.4
+kartoza/postgis:12.4
