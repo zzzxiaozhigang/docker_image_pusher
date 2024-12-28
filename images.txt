@@ -9,4 +9,5 @@
 # kartoza/postgis:15-3.4
 # kartoza/postgis:12.4
 # kartoza/postgis:13-3.1
-kartoza/geoserver:2.25.3
+# kartoza/geoserver:2.25.3
+openjdk:8-jdk-alpine
